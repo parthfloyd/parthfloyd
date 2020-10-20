@@ -27,7 +27,7 @@ I'm a Programmer Analyst | Full Stack Developer. I love reading Documentations &
 
 ## :rocket: Programming Languages
 
-|<img align="center" alt="Java Icon" src="https://img.icons8.com/dusk/50/000000/java-coffee-cup-logo.png"/>|<img align="center" alt="React Native Icon" src="https://img.icons8.com/dusk/50/000000/python.png"/>|<img align="center" alt="Java Icon" src="https://img.icons8.com/dusk/50/000000/php-logo.png"/>|
+|<img align="center" alt="Java Icon" src="https://img.icons8.com/dusk/50/000000/java-coffee-cup-logo.png"/>|<img align="center" alt="Python Icon" src="https://img.icons8.com/dusk/50/000000/python.png"/>|<img align="center" alt="Angular Icon" src="https://img.icons8.com/color/48/000000/angularjs.png"/>|<img align="center" alt="Spring Icon" img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 |:---:|:---:|:---:|
 
 
