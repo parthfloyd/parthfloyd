@@ -38,7 +38,7 @@ I'm a Programmer Analyst | Full Stack Developer. I love reading Documentations &
 
 
   <a href="https://github.com/bobypanchal" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=parthfloydl&title_color=333&text_color=777&show_icons=true" alt="Parth Panchal's GitHub Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=parthfloyd&title_color=333&text_color=777&show_icons=true" alt="Parth Panchal's GitHub Stats" >
   </a>
   
 <br><br>
