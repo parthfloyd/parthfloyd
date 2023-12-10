@@ -19,7 +19,7 @@ I'm a Programmer Analyst | Full Stack Developer. I love reading Documentations &
 
 ## Expertise
 
-* Front End Web Development [ Angular | Vue ]
+* Front End Web Development [ Angular | React | Vue ]
 * Back End Web Development [ SPRING | Node ]
 * Python, Java EE, JavaScript..
 * Project Management
