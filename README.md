@@ -1,55 +1,83 @@
-<!--
-**parthfloyd/parthfloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- README.md for GitHub Profile -->
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there, I'm Parth Panchal 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there, I'm Parth Panchal 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=435&lines=Android+Engineer+%7C+Open+Source+Contributor;Full+Stack+Developer+%7C+GSoC+%40+OpenMRS;AI+%26+Healthcare+Tech+Enthusiast;Building+Apps+with+Impact+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-I'm a Programmer Analyst | Full Stack Developer. I love reading Documentations & working on new and different technologies; hardly miss out on trying out the available alternatives.
+---
 
+## 🚀 About Me
 
-## Expertise
+I'm **Parth Panchal**, a passionate Android & Full Stack Developer with 3+ years of experience creating meaningful, privacy-first mobile and web applications in **healthcare** and **government sectors**. Currently pursuing my MS in Computer Science at **San Francisco State University** *(May '25)* and recently a **Google Summer of Code Developer** with **OpenMRS & ICRC**.
 
-* Front End Web Development [ Angular | React | Vue ]
-* Back End Web Development [ SPRING | Node ]
-* Python, Java EE, JavaScript..
-* Project Management
-* Agile Development
+I love crafting clean, scalable, and efficient code. I thrive in open-source ecosystems, actively contributing to impactful projects like OpenMRS. One of my proudest achievements? Written code that has impacted more than **5 million+ patients across the World**. 🌍❤️
 
-## :rocket: Programming Languages
+---
 
-|<img align="center" alt="Java Icon" src="https://img.icons8.com/dusk/50/000000/java-coffee-cup-logo.png"/>|<img align="center" alt="Python Icon" src="https://img.icons8.com/dusk/50/000000/python.png"/>|<img align="center" alt="Angular Icon" src="https://img.icons8.com/color/48/000000/angularjs.png"/>|<img align="center" alt="Spring Icon" img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>|
-|:---:|:---:|:---:|:---:|
+## 🧠 What I Know & Love
 
+### 📱 Mobile & Frontend
+- Kotlin, Java, Jetpack Compose, Android SDK
+- XML, Angular, React.js, Next.js, TypeScript
 
-## 📫 How to reach me
+### 🖥 Backend
+- Node.js, Express, Spring Boot, Django, Flask
+- REST, GraphQL, Firebase, FHIR, Keycloak, OAuth2
 
-|<a href="https://www.linkedin.com/in/parth-r-panchal/"><img align="center" alt="Parth Panchal's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>|<a href="https://github.com/parthfloyd"><img align="center" alt="Parth Panchal's GitHub" src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>|<a href="https://www.hackerrank.com/parth6606?hr_r=1"><img align="center" alt="Parth Panchal's HackerRank" src="https://img.icons8.com/windows/50/000000/hackerrank.png"/></a>|
-|:---:|:---:|:---:|
+### 🛠 DevOps & Tools
+- Docker, GitHub Actions, AWS, GCP, Azure
+- PostgreSQL, MongoDB, Redis, MySQL, SQLite
+- Jira, Postman, Figma, Webpack
 
+### 🧪 Testing
+- Mockito, Espresso, JUnit, PowerMockito, Robolectric
 
-  <a href="https://github.com/bobypanchal" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=parthfloyd&title_color=333&text_color=777&show_icons=true" alt="Parth Panchal's GitHub Stats" >
-  </a>
-  
-<br><br>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/parthfloyd/parthfloyd?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/parthfloyd?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/parthfloyd?style=flat-square&color=blue&logo=github">
-  </a>
+---
 
+## 🏆 Highlights
 
+- 🎓 **GSoC 2024 Developer** @ OpenMRS + ICRC  
+- 💼 **Android Lead** for WHO Smart Guidelines @ Argusoft  
+- 🧠 Built an **AI-powered academic summarization app** (offline LLM for Android!)  
+- 💻 Contributor to open-source healthcare tech  
+- 🥇 Mentored AI Hackathons @ MIT (2024) & UC Berkeley (2023 & 2024)  
+- 📈 Created apps that improved access to healthcare in conflict regions  
+- 📢 OpenAI Forum Member, story coming soon!
+
+---
+
+## 📚 Currently Working On
+
+- 📲 Enhancing the OpenMRS Android App with ICRC team (FHIR, SDC, patient sync workflows)
+- 🧠 Offline-first AI summarizer for academic PDFs
+- ✍️ Open Source @ Google, ICRC & OpenMRS
+
+---
+
+## 📫 Let's Connect
+
+- 🧑‍💼 [LinkedIn](https://linkedin.com/in/parth-r-panchal)
+- ✍️ [Medium Blog](https://medium.com/@panchalparth_91743)
+- 📬 parth6606@gmail.com
+
+---
+
+## ✨ Favorite Quote
+
+> The best way to predict the future is to invent it — Alan Kay
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=parthfloyd&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌍 Open to Opportunities
+
+<h3 align="center">✨ Thanks for visiting — Let's connect and code the future together!</h3>
