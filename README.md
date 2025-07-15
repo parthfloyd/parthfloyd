@@ -52,7 +52,7 @@ I love crafting clean, scalable, and efficient code. I thrive in open-source eco
 
 - 📲 Enhancing the OpenMRS Android App with ICRC team (FHIR, SDC, patient sync workflows)
 - 🧠 Offline-first AI summarizer for academic PDFs
-- ✍️ Open Source @ Google, ICRC & OpenMRS
+- ✍️ Open Source @ ICRC, OpenMRS & Google
 
 ---
 
